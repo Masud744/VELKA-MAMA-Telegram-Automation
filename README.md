@@ -18,6 +18,11 @@ This project demonstrates a **real-world automation system** combining AI agents
 
 ---
 
+## 🎥 Demo
+
+![Demo Video](https://youtu.be/BZku93-37P8?si=o-uXgTpjeC89ITMk)
+
+
 ##  System Architecture
 
 ```
