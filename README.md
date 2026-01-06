@@ -1,4 +1,4 @@
-# 🍽️ VELKA MAMA Restaurant – AI Telegram Automation Bot
+#  VELKA MAMA Restaurant – AI Telegram Automation Bot
 
 An AI-powered Telegram bot built using **n8n**, **Google Gemini**, and **Google Sheets** to automate food ordering, inventory management, FAQs, and customer interaction for restaurants.
 
@@ -6,19 +6,19 @@ This project demonstrates a **real-world automation system** combining AI agents
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
-- 🤖 AI-powered conversational Telegram bot
-- 🧠 Context-aware conversation memory
-- 🛒 Automated food ordering system
-- 📦 Real-time inventory checking
-- 📊 Orders stored automatically in Google Sheets
-- ❓ FAQ handling (delivery, location, contact info)
-- ⚙️ Built using n8n (low-code automation)
+-  AI-powered conversational Telegram bot
+-  Context-aware conversation memory
+-  Automated food ordering system
+-  Real-time inventory checking
+-  Orders stored automatically in Google Sheets
+-  FAQ handling (delivery, location, contact info)
+-  Built using n8n (low-code automation)
 
 ---
 
-## 🧠 System Architecture
+##  System Architecture
 
 ```
 Telegram User
@@ -34,7 +34,7 @@ Telegram Response
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Automation Platform:** n8n
 - **AI Model:** Google Gemini Chat Model
@@ -44,7 +44,7 @@ Telegram Response
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 > Add screenshots inside the `screenshots/` folder
 
@@ -54,10 +54,10 @@ Telegram Response
 
 ---
 
-## ⚙️ Setup & Installation
+##  Setup & Installation
 
-📄 For full setup instructions, see:
-👉 **[setup-guide.md](setup-guide.md)**
+ For full setup instructions, see:
+ **[setup-guide.md](setup-guide.md)**
 
 Quick summary:
 
@@ -69,7 +69,17 @@ Quick summary:
 
 ---
 
-## 🧪 Example User Commands
+##  How to Test
+
+1. Start n8n
+2. Run ngrok
+3. Open Telegram
+4. Send `hello` to bot
+5. Try: “what food items do you have?”
+6. Try: “I want 2 Morog Polao”
+
+
+#  Example User Commands
 
 ```
 hello
@@ -100,7 +110,7 @@ VELKA-MAMA-Telegram-Bot/
 
 ---
 
-## 🔐 Security Notes
+##  Security Notes
 
 - ❌ Do not commit API keys or bot tokens
 - ✅ Use n8n credential manager
@@ -108,7 +118,7 @@ VELKA-MAMA-Telegram-Bot/
 
 ---
 
-## 📈 Future Enhancements
+##  Future Enhancements
 
 - Payment gateway integration
 - Delivery address handling
@@ -118,7 +128,7 @@ VELKA-MAMA-Telegram-Bot/
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Shahriar Alom Masud**  
 B.Sc(Enng.) in IoT & Robotics Engineering
