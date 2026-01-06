@@ -1,0 +1,6 @@
+.env
+.env.local
+*.log
+.n8n/
+n8n_data/
+.credentials.json
