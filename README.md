@@ -131,7 +131,7 @@ VELKA-MAMA-Telegram-Bot/
 ##  Author
 
 **Shahriar Alom Masud**  
-B.Sc(Enng.) in IoT & Robotics Engineering
-University of Frontier Technology, Bangladesh
+B.Sc(Enng.) in IoT & Robotics Engineering,
+ University of Frontier Technology, Bangladesh
 
 ---
